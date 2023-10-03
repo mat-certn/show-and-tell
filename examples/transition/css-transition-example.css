@@ -1,0 +1,16 @@
+.box {
+  position: absolute;
+  left: 20%;
+  width: 100px;
+  aspect-ratio: 1;
+  background-color: cyan;
+  transition: all 5s;
+  border-radius: 0;
+}
+
+.bigger {
+  background-color: magenta;
+  left: 60%;
+  border-radius: 100%;
+  width: 600px;
+}
